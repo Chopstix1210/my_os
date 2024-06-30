@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1cfffb9e7fae61f7",
+        "id": "f63ee559008ac66d",
         "type": "tabs",
         "children": [
           {
-            "id": "c78d47c039aafdc9",
+            "id": "9e08b002e3dc01cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Booting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ab416e658f92d28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bootloader.md",
+                "file": "Hello Cafebabe.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bootloader.md",
+                "file": "Hello Cafebabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bootloader.md",
+                "file": "Hello Cafebabe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bootloader.md"
+                "file": "Hello Cafebabe.md"
               }
             }
           }
@@ -159,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ab416e658f92d28",
+  "active": "9e08b002e3dc01cf",
   "lastOpenFiles": [
-    "Starting OS.md",
-    "Bootloader.md",
+    "Hello Cafebabe.md",
     "Booting.md",
+    "Bootloader.md",
+    "Starting OS.md",
     "BIOS.md",
     "Pasted image 20240629180354.png",
     "C.md",
