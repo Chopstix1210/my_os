@@ -8,3 +8,5 @@ There are many [[programming languages]] that can be used to create an operating
 To compile [[Assembly Code]] we will be using NASM as the assembler
 We will be using a [[UNIX]] like operating system as the host OS
 
+We will go to [[BIOS]] -> [[Bootloader]] -> OS
+
